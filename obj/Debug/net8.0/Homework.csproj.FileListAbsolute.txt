@@ -1,0 +1,16 @@
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Homework.exe
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Homework.deps.json
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Homework.dll
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Homework.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.dll
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\refint\Homework.dll
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\bin\Debug\net8.0\Program.cs
+D:\GeekBrines\С#Advance\Seminar\LessonTen\Homework\Homework\obj\Debug\net8.0\Homework.sourcelink.json
